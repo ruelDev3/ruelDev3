@@ -56,7 +56,7 @@ I am passionate about building modern web applications and exploring blockchain 
 
 ## 🌐 Portfolio
 
-* https://ruel-code.github.io/MyPortofolio/
+* https://portofolio-web3.vercel.app/
 
 ---
 
